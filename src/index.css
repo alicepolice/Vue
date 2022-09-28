@@ -1,0 +1,43 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .login-register-input {
+    @apply inline-block bg-white focus:outline-none py-3 pl-3 appearance-none leading-normal;
+  }
+  .login-register-solid-button{
+    @apply
+    focus:outline-none
+    text-white
+    bg-pink-400
+    font-medium
+    rounded-sm
+    text-lg
+    px-5
+    py-2.5
+    mb-2
+  }
+  .login-register-hollow-button{
+    @apply
+    focus:outline-none
+    text-pink-400
+    border-pink-400 border
+    font-medium
+    rounded-sm
+    text-lg
+    px-5
+    py-2.5
+    mb-2
+  } 
+  .login-register-checkbox{
+    @apply
+    ml-2
+    text-sm
+    font-medium
+    text-gray-500
+    dark:text-gray-300
+    text-left
+  }
+}
