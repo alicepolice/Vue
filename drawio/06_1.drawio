@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e" scale="2" border="20">
+    <diagram id="yk7K6F6VdCBugUoSx1Jc" name="第 1 页">
+        <mxGraphModel dx="702" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="" style="edgeStyle=none;html=1;fontSize=14;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="230" y="130" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="Props 传递" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="5">
+                    <mxGeometry x="-0.3243" y="-1" relative="1" as="geometry">
+                        <mxPoint x="-9" y="13" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="侧边导航栏.vue" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" style="edgeStyle=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="3" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="this.$emits 通知App.vue事件&lt;br&gt;运行对应的方法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="6">
+                    <mxGeometry x="-0.1994" y="-3" relative="1" as="geometry">
+                        <mxPoint x="59" y="-6" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="顶部组件.vue" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="App.vue" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="40" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="对应方法改变传递的布尔值数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="155" y="10" width="210" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

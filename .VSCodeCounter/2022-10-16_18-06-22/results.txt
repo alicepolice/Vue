@@ -1,0 +1,73 @@
+Date : 2022-10-16 18:06:22
+Directory : c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src
+Total : 37 files,  1943 codes, 10 comments, 68 blanks, all 2021 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Vue        |         19 |      1,347 |          3 |         45 |      1,395 |
+| XML        |         13 |        482 |          5 |         11 |        498 |
+| TypeScript |          4 |         70 |          1 |         11 |         82 |
+| CSS        |          1 |         44 |          1 |          1 |         46 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                         | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                            |         37 |      1,943 |         10 |         68 |      2,021 |
+| assets                                                                                       |         13 |        482 |          5 |         11 |        498 |
+| assets\logo                                                                                  |          1 |         23 |          0 |          2 |         25 |
+| assets\svg                                                                                   |         12 |        459 |          5 |          9 |        473 |
+| components                                                                                   |         12 |        679 |          0 |         15 |        694 |
+| components\HomeView                                                                          |          7 |        359 |          0 |          3 |        362 |
+| components\common                                                                            |          5 |        320 |          0 |         12 |        332 |
+| router                                                                                       |          1 |         45 |          0 |          6 |         51 |
+| store                                                                                        |          1 |         13 |          0 |          2 |         15 |
+| views                                                                                        |          6 |        624 |          1 |         24 |        649 |
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                     | language   | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\App.vue                                    | Vue        |         44 |          2 |          6 |         52 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\logo\hapigames.svg                  | XML        |         23 |          0 |          2 |         25 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\android.svg                     | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\apple.svg                       | XML        |         63 |          0 |          2 |         65 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\best_sell.svg                   | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\best_sell2.svg                  | XML        |         13 |          0 |          0 |         13 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\free.svg                        | XML        |         73 |          1 |          1 |         75 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\linux.svg                       | XML        |         78 |          1 |          1 |         80 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\recent.svg                      | XML        |          4 |          0 |          1 |          5 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\sale.svg                        | XML        |        114 |          1 |          1 |        116 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\star.svg                        | XML        |         60 |          1 |          1 |         62 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\top.svg                         | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\web.svg                         | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\windows.svg                     | XML        |         48 |          1 |          1 |         50 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\HomeView\GameBlog.vue           | Vue        |         33 |          0 |          0 |         33 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\HomeView\GameInfo.vue           | Vue        |         98 |          0 |          1 |         99 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\HomeView\GameList.vue           | Vue        |         84 |          0 |          2 |         86 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\HomeView\HomeFAQ.vue            | Vue        |         23 |          0 |          0 |         23 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\HomeView\HomeFooter.vue         | Vue        |         54 |          0 |          0 |         54 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\HomeView\PlatformNavigation.vue | Vue        |         33 |          0 |          0 |         33 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\HomeView\TopNavigation.vue      | Vue        |         34 |          0 |          0 |         34 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\common\BottomBar.vue            | Vue        |         44 |          0 |          4 |         48 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\common\SideBar.vue              | Vue        |        200 |          0 |          1 |        201 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\common\SideBarHref.vue          | Vue        |         38 |          0 |          6 |         44 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\common\SlideShow.vue            | Vue        |          0 |          0 |          1 |          1 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\common\TopBar.vue               | Vue        |         38 |          0 |          0 |         38 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\index.css                                  | CSS        |         44 |          1 |          1 |         46 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\main.ts                                    | TypeScript |          7 |          0 |          2 |          9 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\router\index.ts                            | TypeScript |         45 |          0 |          6 |         51 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\shims-vue.d.ts                             | TypeScript |          5 |          1 |          1 |          7 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\store\index.ts                             | TypeScript |         13 |          0 |          2 |         15 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\views\AboutView.vue                        | Vue        |         32 |          0 |          5 |         37 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\views\CommentTestView.vue                  | Vue        |        102 |          0 |          3 |        105 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\views\HomeLoginView.vue                    | Vue        |         16 |          0 |          3 |         19 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\views\HomeView.vue                         | Vue        |        228 |          1 |          3 |        232 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\views\LoginView.vue                        | Vue        |        101 |          0 |          5 |        106 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\views\RegisterView.vue                     | Vue        |        145 |          0 |          5 |        150 |
+| Total                                                                                        |            |      1,943 |         10 |         68 |      2,021 |
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

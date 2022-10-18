@@ -14,7 +14,7 @@
   >
     <div v-for="(item, index) in items" :key="index" style="width: 100%">
       <router-link :to="{ name: item.routerName }" custom v-slot="{ navigate }">
-        <div @click="navigate" @keypress.enter="navigate" class="text-center">
+        <div @click="navigate" class="text-center">
           <div class="pt-2">
             <component :is="item.icon" class="m-auto text-2xl" />
             <div class="text-lg">
@@ -26,10 +26,22 @@
     </div>
   </div>
 </template>
+
 <script lang="ts">
+import { PropType } from "vue";
+
+interface BottomItem {
+  text: string;
+  icon: string;
+  routerName: string;
+}
 export default {
   props: {
-    items: Array,
+    items: {
+      type: Array as PropType<BottomItem[]>,
+      required: true,
+    },
   },
 };
 </script>
+

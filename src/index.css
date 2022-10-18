@@ -4,6 +4,9 @@
 @tailwind utilities;
 
 @layer components {
+  .test{
+    @apply border border-gray-900
+  }
   .login-register-input {
     @apply inline-block bg-white focus:outline-none py-3 pl-3 appearance-none leading-normal;
   }

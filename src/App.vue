@@ -1,38 +1,30 @@
 <template>
-  <router-view @set-bottom-flag="setBottomFlag" />
-  <BottomBar v-show="bottomFlag" :items="bottomItems" />
+  <TopBar @changeSideFlag="changeSideFlag"></TopBar>
+  <SideBar :show-flag="sideFlag"></SideBar>
+  <div class="absolute top-12 w-full z-10">
+    <router-view />
+  </div>
 </template>
-
 
 <script lang="ts">
 import { defineComponent } from "vue";
-import BottomBar from "@/components/BottomBar.vue";
-
-type BottomItem = {
-  text: string;
-  icon: string;
-  routerName: string;
-};
+import TopBar from "./components/common/TopBar.vue";
+import SideBar from "./components/common/SideBar.vue";
 
 export default defineComponent({
   name: "App",
   components: {
-    BottomBar,
+    TopBar,
+    SideBar,
   },
   data() {
     return {
-      bottomItems: [
-        { text: "首页", icon: "b-icon-house-heart", routerName: "home" },
-        { text: "理财", icon: "b-icon-coin", routerName: "about" },
-        { text: "消息", icon: "b-icon-chat-dots", routerName: "about" },
-        { text: "我的", icon: "b-icon-person-circle", routerName: "about" },
-      ] as BottomItem[],
-      bottomFlag: true as boolean,
+      sideFlag: false as boolean,
     };
   },
   methods: {
-    setBottomFlag(value: boolean): void {
-      this.bottomFlag = value;
+    changeSideFlag(): void {
+      this.sideFlag = !this.sideFlag;
     },
   },
 });

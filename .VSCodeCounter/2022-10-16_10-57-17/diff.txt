@@ -1,0 +1,50 @@
+Date : 2022-10-16 10:57:17
+Directory : c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src
+Total : 20 files,  741 codes, 5 comments, 12 blanks, all 758 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| XML      |         12 |        459 |          5 |          9 |        473 |
+| Vue      |          8 |        282 |          0 |          3 |        285 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                         | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                            |         20 |        741 |          5 |         12 |        758 |
+| assets                                                                                       |         12 |        459 |          5 |          9 |        473 |
+| assets\svg                                                                                   |         12 |        459 |          5 |          9 |        473 |
+| components                                                                                   |          6 |        261 |          0 |          2 |        263 |
+| components\HomeView                                                                          |          6 |        261 |          0 |          2 |        263 |
+| views                                                                                        |          1 |         21 |          0 |          0 |         21 |
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                     | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\App.vue                                    | Vue      |          0 |          0 |          1 |          1 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\android.svg                     | XML      |          1 |          0 |          0 |          1 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\apple.svg                       | XML      |         63 |          0 |          2 |         65 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\best_sell.svg                   | XML      |          1 |          0 |          0 |          1 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\best_sell2.svg                  | XML      |         13 |          0 |          0 |         13 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\free.svg                        | XML      |         73 |          1 |          1 |         75 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\linux.svg                       | XML      |         78 |          1 |          1 |         80 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\recent.svg                      | XML      |          4 |          0 |          1 |          5 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\sale.svg                        | XML      |        114 |          1 |          1 |        116 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\star.svg                        | XML      |         60 |          1 |          1 |         62 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\top.svg                         | XML      |          1 |          0 |          0 |          1 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\web.svg                         | XML      |          3 |          0 |          1 |          4 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\assets\svg\windows.svg                     | XML      |         48 |          1 |          1 |         50 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\HomeView\GameBlog.vue           | Vue      |         33 |          0 |          0 |         33 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\HomeView\GameList.vue           | Vue      |         84 |          0 |          2 |         86 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\HomeView\HomeFAQ.vue            | Vue      |         23 |          0 |          0 |         23 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\HomeView\HomeFooter.vue         | Vue      |         54 |          0 |          0 |         54 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\HomeView\PlatformNavigation.vue | Vue      |         33 |          0 |          0 |         33 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\components\HomeView\TopNavigation.vue      | Vue      |         34 |          0 |          0 |         34 |
+| c:\Users\小能喵喵喵\Desktop\Vue\Homework\homework2\src\views\HomeView.vue                         | Vue      |         21 |          0 |          0 |         21 |
+| Total                                                                                        |          |        741 |          5 |         12 |        758 |
++----------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
